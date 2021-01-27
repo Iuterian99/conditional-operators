@@ -36,3 +36,7 @@ elif a != b and a!= c: #"elif" belgisi variantlarini chiqarib beradi
     print("Teng tomonli bo'lmagan uchburchak!")
 else:
     print("teng yonli uchburchak!")
+
+
+
+    print("Hello world")
